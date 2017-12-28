@@ -1,14 +1,14 @@
 {
-  "loading": "Sto caricando MadelineProto...",
-  "loaded": "MadelineProto caricato!",
-  "ask_phone_number": "Inserisci il numero di telefono: ",
-  "ask_login_code": "Inserisci il codice ricevuto: ",
-  "ask_2fa_password": "Inserisci la password della verifica in due passaggi: ",
-  "ask_name": "Inserisci il nome: ",
-  "session_loaded": "Sessione caricata!",
-  "type_megagroup": "supergruppo",
-  "type_group": "gruppo",
-  "type_pvtchat": "privata",
-  "error": "Errore: ",
-  "shitty_multithread_warning": "Attemzione! Il multithread non è stabile e potrebbe trasformarsi una forkbomb,,., vuoi continuare? (y/n) "
+  "loading": "I'm loading MadelineProto, please wait...",
+  "loaded": "MadelineProto loaded!",
+  "ask_phone_number": "Type your phone number: ",
+  "ask_login_code": "Enter the received code: ",
+  "ask_2fa_password": "Type the password 2FA: ",
+  "ask_name": "Write a name:",
+  "session_loaded": "Session loaded!",
+  "type_megagroup": "supergroup",
+  "type_group": "group",
+  "type_pvtchat": "private",
+  "error": "Error: ",
+  "shitty_multithread_warning": "Warning!, you are running a dangerous forkbomb, run? (y/n) "
 }
